@@ -1,5 +1,5 @@
-# Virtual Dom
-Implesement a simaple vdom that by typescript.
+# dada
+Virtual Dom
 
 # Author
 Luolawlan
