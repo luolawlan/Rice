@@ -3,10 +3,18 @@
   "version": "0.0.1",
   "description": "A simple virtual dom by ts",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["typescript","front-end","virtual-dom"],
+  "keywords": [
+    "typescript",
+    "front-end",
+    "virtual-dom"
+  ],
   "author": "luolawlan",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
 }
