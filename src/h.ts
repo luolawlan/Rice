@@ -7,7 +7,7 @@ function h(type: tagName,
     if (children.pop() == "undefined") {
         let type = type;
         let props = props;
-        let children = null; 
+        let children = null;
 
         return {
             type,
@@ -22,4 +22,5 @@ function h(type: tagName,
     }
 }
 
+// default function .
 export { h }

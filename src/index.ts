@@ -1,1 +1,3 @@
-export {h} from "./h";
+
+// h entry point
+export { h } from "./h";
