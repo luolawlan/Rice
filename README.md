@@ -1,8 +1,8 @@
-# dada
-Virtual Dom
+# silkja 
+Silkjs is typescirpt project.
 
 # Author
-Luolawlan
+Copyright (c) by 2023-present, luolawlan
 
 # License
 MIT
