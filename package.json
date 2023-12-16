@@ -2,7 +2,7 @@
   "name": "virtualdom",
   "version": "0.0.1",
   "description": "A simple virtual dom by javascript.",
-  "main": "index.js",
+  "main": "index.mjs",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
