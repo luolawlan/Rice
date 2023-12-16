@@ -1,21 +1,20 @@
 {
   "name": "virtualdom",
   "version": "0.0.1",
-  "description": "A simple virtual dom by ts",
-  "main": "index.ts",
+  "description": "A simple virtual dom by javascript.",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "typescript",
+    "javascript",
     "front-end",
     "virtual-dom"
   ],
   "author": "luolawlan",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.3.2",
-    "vite": "^5.0.5"
+
   }
 }

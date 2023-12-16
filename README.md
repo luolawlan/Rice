@@ -1,8 +1,5 @@
-# silkja 
-Silkjs is typescirpt project.
-
-# Author
-Copyright (c) by 2023-present, luolawlan
+# RiceJS
+Rice.js is a lightweight virtual dom.
 
 # License
 MIT
