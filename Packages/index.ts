@@ -1,1 +1,1 @@
-export {vnode} from "./vnode.mjs";
+export { createVnode } from "vnode.ts";

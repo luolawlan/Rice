@@ -1,13 +1,6 @@
-function vnode(tagName, atrr, children, event,documentType) {
-    let tagName = tagName;
-    let atrr = new Attr();
-    return {
-        tagName,
-        atrr,
-        children,
-        event,
-        documentType
-    }
-}
+import { VNODE } from "./types.ts";
 
-export { vnode }
+function createVnode(tagName: String, attributes: Object, children: Array<Object>): VNODE {
+    
+}
+export { createVnode };
